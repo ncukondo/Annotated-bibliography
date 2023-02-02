@@ -50,6 +50,20 @@ Heeneman, S., de Jong, L. H., Dawson, L. J., Wilkinson, T. J., Ryan, A., Tait, G
 
 Torre, D., Rice, N. E., Ryan, A., Bok, H., Dawson, L. J., Bierer, B., Wilkinson, T. J., Tait, G. R., Laughlin, T., Veerapen, K., Heeneman, S., Freeman, A., & van der Vleuten, C. (2021). Ottawa 2020 consensus statements for programmatic assessment - 2. Implementation and practice. Medical Teacher, 43(10), 1149–1160. https://doi.org/10.1080/0142159X.2021.1956681
 
+## Feedback and Mentoring
+
+- Feedback
+    - aware about  the  activities  performed  well  and  areas  which  require  more  attention
+    - how?
+        - nonthreatening  atmosphere
+        - nonjudgmental  manner
+        - constructive
+- Mentoring
+    - feedback alone might not be sufficient to improve the learning of students
+    - make students a self‑directed learner
+        - accomplished  through  giving  an  effective  feedback  to  the  student  either  verbally  or  through a structured format
+(Fischer et al., 2021 PMID:33776836)The Digital Stressors Scale: Development and Validation of a New Survey Instrument to Measure Digital Stress Perceptions in the Workplace Context. Frontiers in Psychology, 12, 607598. https://doi.org/10.3389/fpsyg.2021.607598 PMID:33776836
+
 ## International study on implementation
 
 
