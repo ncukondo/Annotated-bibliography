@@ -31,5 +31,9 @@
 
 # Artificial Intelligence Education and Tools for Medical and Health Informatics Students: Systematic Review
 
+# The utility of ChatGPT as an example of large language models in healthcare education, research and practice: Systematic review on the future perspectives and potential limitations. 
+
+
+![](AI%20and%20medical%20education/2023-05-29-09-14-56.png)
 
 (Sapci & Sapci, 2020 PMID:32602844)Artificial Intelligence Education and Tools for Medical and Health Informatics Students: Systematic Review. JMIR Medical Education, 6(1), e19285. https://doi.org/10.2196/19285 PMID:32602844
