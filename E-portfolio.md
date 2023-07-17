@@ -72,6 +72,20 @@ Lee Y. Design and Implementation of a Multipurpose E-Portfolio for Clinical Cler
 - a statistical model
   - translates the existing E-portfolio performance scores into the progress state of the learner
 
+[van der Schaaf M, Donkers J, Slof B, Moonen-van Loon J, van Tartwijk J, Driessen E, et al. Improving workplace-based assessment and feedback by an E-portfolio enhanced with learning analytics. Educ Technol Res Dev. 2017;65(2):359-380. doi:10.1007/s11423-016-9496-8](https://drive.google.com/file/d/1MO8eoPtQA3NPsp7b_rXRUpFQLQxZ0yxf/view?usp=sharing)
+
+### Types of student model
+
+- Overlay model
+  - proper subset of the knowledge of the entire domain
+- Differential model
+  - the domain knowledge is decomposed into necessary and unnecessary (or optional)
+- Perturbation model
+  - student ’s knowledge is dichotomized into“correct” and “incorrect”.
+- Constraint-based model
+  - s the domain knowledge is represented by a set of constraints over the problem state
+
+[Millán E, Loboda T, Pérez-de-la-Cruz JL. Bayesian networks for student model engineering. Comput Educ. 2010;55(4):1663-1683. doi:10.1016/j.compedu.2010.07.010](https://drive.google.com/file/d/1F-THwsWw4X2bI33mrgnTsXHlSjcc_4RD/view?usp=sharing)
+
 ## Learning analyticus
 
-[van der Schaaf M, Donkers J, Slof B, Moonen-van Loon J, van Tartwijk J, Driessen E, et al. Improving workplace-based assessment and feedback by an E-portfolio enhanced with learning analytics. Educ Technol Res Dev. 2017;65(2):359-380. doi:10.1007/s11423-016-9496-8](https://drive.google.com/file/d/1MO8eoPtQA3NPsp7b_rXRUpFQLQxZ0yxf/view?usp=sharing)
