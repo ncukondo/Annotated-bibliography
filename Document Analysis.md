@@ -1,9 +1,13 @@
+---
+bibliography: Document Analysis/citations.bib
+---
+
 # Qualitative Document Analysis
 
 ## What
 
-- Using pre-existing documents as data(Morgan 2022)
-- a systematic procedure for reviewing or evaluating documents, both printed and electronic material(Chanda 2021)
+- Using pre-existing documents as data[@Morgan2022-li]
+- a systematic procedure for reviewing or evaluating documents, both printed and electronic material[@Chanda2021-uc]
 
 ## Epistemological Theories
 
@@ -28,18 +32,17 @@
   - photograph
   - video
 
-(Morgan 2022)
+[@Morgan2022-li]
 
 ## Why
 
 - complement other methods
-- aboiding dangerous situation
+- avoiding dangerous situation
 - stability of the data
 - fewer ethical concerns
 - enable to collect valuable data
-- fewer ethical concerns
   
-(Morgan 2022)
+[@Morgan2022-li]
 
 ## Strength and Weakness
 
@@ -50,7 +53,7 @@ Unobtrusive form of research. | Fewer opportunities to check for bias.
 Cost-effective method. | Not enough data to complete a study that matches the researcher’s interests.
 More opportunities to do research that would otherwise be difficult to do. |
 
-(Morgan 2022)
+[@Morgan2022-li]
 
 ## How
 
@@ -65,7 +68,7 @@ More opportunities to do research that would otherwise be difficult to do. |
 
 ![chart of quality criteria](./Document%20Analysis/2023-07-29-19-09-17.png)
 
-(Morgan 2022)
+[@Morgan2022-li]
 
 ### Thematic analysis
 
@@ -76,7 +79,7 @@ More opportunities to do research that would otherwise be difficult to do. |
 2. coding reliability
 3. codebook
 
-(Morgan 2022)
+[@Morgan2022-li]
 
 ### Framework analysis
 
@@ -86,15 +89,15 @@ More opportunities to do research that would otherwise be difficult to do. |
 - Charting
 - mapping /interpretation
 
-(Chanda 2021)
+[@Chanda2021-uc]
 
 ### Narrative  analysis
 
-(Chanda 2021)
+[@Chanda2021-uc]
 
 ### Content  analysis
 
-(Chanda 2021)
+[@Chanda2021-uc]
 
 ## Checklist for Assessment and Reporting of Document Analysis (CARDA)
 
@@ -156,15 +159,10 @@ More opportunities to do research that would otherwise be difficult to do. |
 |  | b. evaluate every stage of the study? |
  |
 
-(Cleland J 2023)
+[@Cleland2023-jp]
 
 ### Example of usage
 
-- How Were Return-of-Service Schemes Developed and Implemented in Botswana (Mabunda SA 2023)
+- How Were Return-of-Service Schemes Developed and Implemented in Botswana [@Mabunda2023-hd]
 
 ## References
-
-- (Morgan 2022): Morgan H. Conducting a Qualitative Document Analysis. The Qualitative Report. 2022;27(1):64-77. doi:10.46743/2160-3715/2022.5044
-- (Chanda 2021): Chanda A. Key Methods Used in Qualitative Document Analysis. Published online December 29, 2021. doi:10.2139/ssrn.3996213
-- (Cleland J 2023): Cleland J, MacLeod A, Ellaway RH. CARDA: Guiding document analyses in health professions education research. Med Educ. 2023;57(5):406-417. doi:10.1111/medu.14964
-- (Mabunda SA 2023): Mabunda SA, Durbach A, Chitha WW, Moaletsane O, Angell B, Joshi R. How Were Return-of-Service Schemes Developed and Implemented in Botswana, Eswatini and Lesotho? Healthcare (Basel). 2023;11(10). doi:10.3390/healthcare11101512

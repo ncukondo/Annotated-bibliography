@@ -40,6 +40,8 @@
   - emotional outlet
   - motivated some interns to want to improve
 
+Levine RB, Kern DE, Wright SM. The impact of prompted narrative writing during internship on reflective practice: a qualitative study. Adv Health Sci Educ Theory Pract. 2008;13(5):723-733. doi:10.1007/s10459-007-9079-x
+
 # Pocket size logbook to monitor students' skill and experience
 
 

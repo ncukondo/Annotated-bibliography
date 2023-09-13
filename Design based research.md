@@ -55,11 +55,10 @@
 - Assessment
 
 #### Example in AMEE No.60
+
 Tigelaar et al., 2004 DOI:10.1016/j.stueduc.2004.11.003[@Tigelaar2004]
 
-
 Dolmans & Tigelaar, 2012 PMID:22250671[@PMID22250671]
-
 
 # Examples
 

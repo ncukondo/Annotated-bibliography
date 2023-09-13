@@ -1,27 +1,67 @@
-# E-portfolio
+---
+bibliography: "./E-portfolio/citations.bib"
+# [bib](./E-portfolio/citations.bib)
+---
 
-## Why E-portfolio
+[TOC]
+
+# E-portfolio
 
 ## Data flow in E-portfolio
 
-E-portfolio is expected to have 
+E-portfolio is expected to have the following features:
 
 1. the ability to collect feedback and learning results
 2. integrate data from multiple platforms
 3. visualize the integrated data to help the stakeholder get the holistic view from the integrated data
 
-Van Der Vleuten et al., 2015 PMID:25410481
+[@Van_Der_Vleuten2015-vy]
+
+## Impact
+
+### Self-regulated learning in clinical workplace learning
+
+- context–mechanism–outcome configurations (CMOs)
+- Mechanisms
+  - documenting as a moment of contemplation
+    - learners analyze experiences while writing portfolio reports
+  - documentation as a reminder of past events
+    - previous portfolio reports aid recall
+- Limited
+  - formulation of learning objectives
+  - plans
+  - monitoring
+- Inhibitating factors
+  - contextual factors (e.g., system of assessment)
+  - portfolio-related mechanisms (e.g., mentoring)
+
+@import "./E-portfolio/CMO1.csv"
+
+![](E-portfolio/2023-09-13-12-55-54.png)
+
+![](E-portfolio/2023-09-13-12-56-17.png)
+
+![](E-portfolio/2023-09-13-12-56-32.png)
+![](E-portfolio/2023-09-13-12-56-52.png)
+
+![](E-portfolio/2023-09-13-12-57-08.png)
+
+![](E-portfolio/2023-09-13-12-57-23.png)
+
+![](E-portfolio/2023-09-13-12-57-56.png)
+![](E-portfolio/2023-09-13-12-58-11.png)
+
+![](E-portfolio/2023-09-13-12-58-20.png)
+
+![](E-portfolio/2023-09-13-12-58-33.png)
+
+[@Van_der_Gulden2022-jc]
 
 ## Burden
 
 - Filling out e-portfolio is a burden
 
-Findyartini et al., 2021 DOI:10.29060/taps.2021-6-4/oa2459
-
-
-Van Der Vleuten, C. P. M., Schuwirth, L. W. T., Driessen, E. W., Govaerts, M. J. B., & Heeneman, S. (2015). Twelve Tips for programmatic assessment. Medical Teacher, 37(7), 641–646. https://doi.org/10.3109/0142159X.2014.973388
-
-Development of an app-based e-portfolio in postgraduate medical education using Entrustable Professional Activities (EPA) framework: Challenges in a resource-limited setting. The Asia Pacific Scholar, 6(4), 92–106. https://doi.org/10.29060/taps.2021-6-4/oa2459
+[@Findyartini2021-up; @Van_Der_Vleuten2015-vy]
 
 ## Examples
 
@@ -38,8 +78,7 @@ ED exposures and involvement levels
 - conclusion
   - useful tool in defining the learning activities
 
-
-Cevik AA, Shaban S, El Zubeir M, Abu-Zidan FM. The role of emergency medicine clerkship e-Portfolio to monitor the learning experience of students in different settings: a prospective cohort study. Int J Emerg Med. 2018;11(1):24. doi:10.1186/s12245-018-0184-9
+[@Cevik2018-rr]
 
 ### Clinical Clerkship in Korea
 
@@ -64,9 +103,7 @@ Comprehensive review and study about e-portfolio.
   - 108 third-year medical school students
   - 255 clerkship professors
 
-
-
-Lee Y. Design and Implementation of a Multipurpose E-Portfolio for Clinical Clerkship in a Korean Medical School Environment. University of Georgia; 2016. https://esploro.libs.uga.edu/esploro/outputs/doctoral/Design-and-implementation-of-a-multipurpose-e-portfolio-for-clinical-clerkship-in-a-Korean-medical-school-environment/9949333717502959?skipUsageReporting=true&recordUsage=false&institution=01GALI_UGA. Accessed July 5, 2023
+[@Lee2016-lx]
 
 ## Student model
 
@@ -74,7 +111,7 @@ Lee Y. Design and Implementation of a Multipurpose E-Portfolio for Clinical Cler
 - a statistical model
   - translates the existing E-portfolio performance scores into the progress state of the learner
 
-[van der Schaaf M, Donkers J, Slof B, Moonen-van Loon J, van Tartwijk J, Driessen E, et al. Improving workplace-based assessment and feedback by an E-portfolio enhanced with learning analytics. Educ Technol Res Dev. 2017;65(2):359-380. doi:10.1007/s11423-016-9496-8](https://drive.google.com/file/d/1MO8eoPtQA3NPsp7b_rXRUpFQLQxZ0yxf/view?usp=sharing)
+[@Van_der_Schaaf2017-xj]
 
 ### Types of student model
 
@@ -87,7 +124,8 @@ Lee Y. Design and Implementation of a Multipurpose E-Portfolio for Clinical Cler
 - Constraint-based model
   - s the domain knowledge is represented by a set of constraints over the problem state
 
-[Millán E, Loboda T, Pérez-de-la-Cruz JL. Bayesian networks for student model engineering. Comput Educ. 2010;55(4):1663-1683. doi:10.1016/j.compedu.2010.07.010](https://drive.google.com/file/d/1F-THwsWw4X2bI33mrgnTsXHlSjcc_4RD/view?usp=sharing)
+[@Millan2010-gh]
 
-## Learning analyticus
+
+## References
 
