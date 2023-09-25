@@ -1,5 +1,6 @@
 ---
 bibliography: Document Analysis/citations.bib
+#[bib](Document%20Analysis/citations.bib)
 ---
 
 # Qualitative Document Analysis
