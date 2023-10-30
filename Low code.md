@@ -1,5 +1,7 @@
 
-## How low-code development can power healthcare innovation
+## Examples in medical education and healthcare
+
+# ## How low-code development can power healthcare innovation
 
 (Eddy, 2021 https://www.healthcareitnews.com/news/how-low-code-development-can-power-healthcare-innovation)
 
@@ -19,7 +21,7 @@
 
 (“Case Study: The Utilization of Low-Code Development Technology to Support Research Data Collection,” 2018 DOI:10.48009/2_iis_2018_132-139)Issues In Information Systems. https://doi.org/10.48009/2_iis_2018_132-139
 
-## The Development of a Hypertension Prevention andFinancial Incentive Mobile Health Program Using a“No-Code” Mobile App Builder: An Acceptability andUsability Study
+## The Development of a Hypertension Prevention and Financial Incentive Mobile Health Program Using a“No-Code” Mobile App Builder: An Acceptability andUsability Study
 
 (The Development of a Hypertension Prevention and Financial Incentive Mobile Health Program Using a “No-Code” Mobile App Builder: An Acceptability and Usability Study, n.d. https://preprints.jmir.org/preprint/43823) Retrieved January 13, 2023, from https://preprints.jmir.org/preprint/43823
 

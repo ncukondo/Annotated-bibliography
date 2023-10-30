@@ -7,6 +7,18 @@ bibliography: "./E-portfolio/citations.bib"
 
 # E-portfolio
 
+## Why
+
+- increased need for reflective practice and the movement toward competency-based medical  education [@Lee2016-lx]
+- Proper monitoring and analysis of electronic logbooks can modify teaching and learning activities during the clerkship as well as provide guidance for future modifications of the curriculum [@Cevik2018-rr]
+
+## Barrier
+
+- not tailored to the characteristics (i.e., tasks and context) of the workplace [@Van_der_Schaaf2017-xj]
+- adopting technology uncritically carries risks [@Fuller2022-zf]
+- Burden
+  - Filling out e-portfolio is a burden v[@Findyartini2021-up; @Van_Der_Vleuten2015-vy]
+
 ## Data flow in E-portfolio
 
 E-portfolio is expected to have the following features:
@@ -57,11 +69,6 @@ E-portfolio is expected to have the following features:
 
 [@Van_der_Gulden2022-jc]
 
-## Burden
-
-- Filling out e-portfolio is a burden
-
-[@Findyartini2021-up; @Van_Der_Vleuten2015-vy]
 
 ## Examples
 

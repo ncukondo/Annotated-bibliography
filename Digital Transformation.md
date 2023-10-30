@@ -1,8 +1,15 @@
+---
+bibliography: "Digital Transformation/citations.bib"
+# [bib](./Digital%20Transformation/citations.bib)
+---
+
 # Digital Transformation
 
-## Digital Transformation in Higher Education Institutions: A Systematic Literature Review
+## What?
 
-### Difinitions
+### Various Difinitions from a Review
+
+- Digital Transformation in Higher Education Institutions: A Systematic Literature Review [@Castro_Benavides2020-my]
 
 Paper | Digital Transformation
 -- | --
@@ -14,6 +21,8 @@ Paper | Digital Transformation
 [18] | The modern developments in the area of modernizing educational system with the aid of ITC technology and applied process thinking principles in the attempt to capture and model interrelated activities required to integrate digital technologies in teaching, learning, and organizational practices.
 [19] | DT is an accelerated evolution. It is also revolution because of its radical and structural implications for people as for infrastructure that also requires new educational and business models.
 [20] | Digital business transformation can be defined as the modification of business processes, procedures, capabilities and policies to take advantage of the changes and opportunities presented by new digital technologies, as well as the impact they have on society, while always thinking about current and future trends.
+
+[@Castro_Benavides2020-my]
 
 ### DT in HEIs Dimensions
 
@@ -27,11 +36,11 @@ Paper | Digital Transformation
 - Data and security infrastructure
 - ...
 
-Castro Benavides, L. M., Tamayo Arias, J. A., Arango Serna, M. D., Branch Bedoya, J. W., & Burgos, D. (2020). Digital Transformation in Higher Education Institutions: A Systematic Literature Review. Sensors , 20(11). https://doi.org/10.3390/s20113291
+[@Castro_Benavides2020-my]
 
 ## Digital transformation in medical education: Factors that influence readiness
 
-Althubaiti, A., Tirksstani, J. M., Alsehaibany, A. A., Aljedani, R. S., Mutairii, A. M., & Alghamdi, N. A. (2022). Digital transformation in medical education: Factors that influence readiness. Health Informatics Journal, 28(1), 14604582221075554. https://doi.org/10.1177/14604582221075554
+[@Althubaiti2022-px]
 
 ## Understanding digital transformation: A review and a research agenda
 
@@ -45,14 +54,14 @@ Althubaiti, A., Tirksstani, J. M., Alsehaibany, A. A., Aljedani, R. S., Mutairii
 ### Digital transformation: a research agenda
 
 - Avenue 1: How dynamic capabilities contribute to digital transformation
-    - Building organizational dynamic capabilities for digital transformation
-    - The role of integrative capabilities to support digital platforms and ecosystems
-    - Microfoundations of dynamic capabilities: how digital transformation unfolds in practice
+  - Building organizational dynamic capabilities for digital transformation
+  - The role of integrative capabilities to support digital platforms and ecosystems
+  - Microfoundations of dynamic capabilities: how digital transformation unfolds in practice
 - Avenue 2: The strategic relevance of ethics in digital transformation
-    - Ethics and the multilevel nature of digital transformation
-    - Sustaining organizational performance: the role of ethical performance
-    - Using ethics to account for the conflicting demands of value co-creators
+  - Ethics and the multilevel nature of digital transformation
+  - Sustaining organizational performance: the role of ethical performance
+  - Using ethics to account for the conflicting demands of value co-creators
 
+[@Vial2019-tz]
 
-
-Vial, G. (2019). Understanding digital transformation: A review and a research agenda. *The Journal of Strategic Information Systems*, *28*(2), 118–144. https://doi.org/10.1016/j.jsis.2019.01.003
+## References
