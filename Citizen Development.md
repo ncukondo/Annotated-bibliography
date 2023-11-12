@@ -25,6 +25,8 @@ bibliography: Citizen Development/citations.bib
 - the increased need for faster adaptations to a fast-changing business environment [@Binzer2022-bg]
 - the shortage of skilled IT resources [@Binzer2022-bg]
 - To meet growing business demands for digital solutions without overwhelming or expanding the IT department [@Carroll2023-jx]
+- the importance of collectivity as
+citizen development significantly broadens the number of people who can assist with their creativity and competence in an organization’s digital transformation [@Binzer2022-bg]
 - Rapid design, development and deployment of applications in a hyperagile manner is the organizational equivalent of project management agility [@Carroll2023-jx]
 - To enhance productivity and foster innovation, support through programming is essential [@Carroll2023-jx]
 
@@ -43,17 +45,16 @@ bibliography: Citizen Development/citations.bib
 
 ## Challenges
 
-- limitations of contemporary LCDPs
-- question the abilities of citizen developers
-  - firms perceive application development on
+- limitations of contemporary LCDPs [@Binzer2022-bg]
+- question the abilities of citizen developers [@Binzer2022-bg]
+  - firms perceive application development on [@Binzer2022-bg]
 LCDPs still as complex task that requires specialized skills
 - integration limitations
 - quality concerns
 - security concerns
   - Shadow IT
     - the use and management of any IT technologies, solutions, services and infrastructure without formal approval and support of the internal IT department [@Carroll2023-jx]
-
-[@Binzer2022-bg]
+- Development with Low/No-Code is challenging for an experienced software developer [@Hallberg2021-hy]
 
 ## Enablers
 
