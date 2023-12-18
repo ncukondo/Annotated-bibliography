@@ -7,6 +7,8 @@ bibliography: "./E-portfolio/citations.bib"
 
 # E-portfolio
 
+## What
+
 ## Why
 
 - increased need for reflective practice and the movement toward competency-based medical  education [@Lee2016-lx]
@@ -15,9 +17,14 @@ bibliography: "./E-portfolio/citations.bib"
 ## Barrier
 
 - not tailored to the characteristics (i.e., tasks and context) of the workplace [@Van_der_Schaaf2017-xj]
-- adopting technology uncritically carries risks [@Fuller2022-zf]
+  - Adopting technology uncritically carries risks [@Fuller2022-zf]
 - Burden
   - Filling out e-portfolio is a burden v[@Findyartini2021-up; @Van_Der_Vleuten2015-vy]
+
+- Learners
+  - Lack of time
+  - Lack of motivation
+[@Van_der_Gulden2022-jc]
 
 ## Data flow in E-portfolio
 
@@ -91,6 +98,12 @@ ED exposures and involvement levels
 
 Comprehensive review and study about e-portfolio.
 
+In summary:
+
+In clinical clerkships, where medical students learn through experience, e-portfolios offer the advantage of enabling real-time recording and assessment of performance. However, challenges have been noted due to the busy nature of clinical settings. These include the limited time available for medical students and supervisors to enter records and feedback, as well as constraints related to network availability and physical location in clinical environments, which can restrict opportunities for input. In addition, the lack of a standardized assessment system and the need for training in the use of e-portfolios have been identified as barriers to their effective use. In order to overcome these challenges, it is necessary to develop a system that can be used in a variety of clinical settings, and to provide training in the use of e-portfolios for both students and supervisors. In addition, it is necessary to develop a standardized assessment system that can be used to evaluate the performance of medical students in clinical settings.
+
+[@Lee2016-lx]
+
 - Purpose
   - identify positive and negative experiences of students and faculty
   - propose recommendations for successful design and implementation of clerkship e-portfolio
@@ -106,11 +119,38 @@ Comprehensive review and study about e-portfolio.
   - development of technology skills
   - learner-centered environment
   - accessibility
+- Negative Exprerience
+  - large quantity of work
+    - for students
+      - Insufficient number of noticeable events
+    - for professors
+      - Too much assessment work overall
+      - Duplicated or repeated works
+  - Sutdents' motivation
+    - Lack of understanding of purpose and value
+    - Lack of feedback
+  - Faculty's limitation
+    - time constraints
+    - prefer oral or written feedback
+    - Lack of training
+    - Lack of consensus on assessment criteria
+    - Lack of technical support
+  - Limitation in clinical environment
+    - Lack of wireless internet network
+    - Difficult use tablet computers
+      - lack of portability
+    - Lack of time
+  - technological difficulties
+    - in senior faculty
 - Participants
   - 108 third-year medical school students
   - 255 clerkship professors
 
 [@Lee2016-lx]
+
+## Feedback in e-portfolio
+
+[@Fu2019-vb]
 
 ## Student model
 

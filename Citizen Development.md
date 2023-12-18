@@ -10,7 +10,7 @@ bibliography: Citizen Development/citations.bib
 - Strives to empower non-IT employees
   - to design, build,and deploy their own software applications
   - to an increased workflow automation
-  - [@Binzer2022-bg] 
+  - [@Binzer2022-bg]
 - A novel software engineering paradigm
   - enables and supports the development of software by non-IT professionals [@Binzer2022-bg]
 - Growing movement which describes a new trend across businesses
@@ -95,7 +95,7 @@ knowledge exchange in established communities or the setup of cross-functional t
 - Team
   - How do citizen developers integrate themselves into cross-functional teams?
   - How do citizen development practices diffuse within and across teams?
-  - How can teams and team performance benefit from citizen developers? 
+  - How can teams and team performance benefit from citizen developers?
 - Organizational
   - How do firms implement citizen development strategies?
   - How can citizen development training and up skilling be organized?
