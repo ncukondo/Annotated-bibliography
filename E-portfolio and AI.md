@@ -9,10 +9,10 @@ bibliography: E-portfolio and AI/citations.bib
 
 ### An e-portfolio that combines a student model, feedback generation, and a visualization module
 
-1. Degine competencies and EPAs
+1. Design competencies and EPAs
 2. Develop a student model
    - Using multi-entity Bayesian networks
-   - Sourdes:
+   - Sources:
      - pedagogical knowledge
      - written  or  electronic  tests
      - CbD
@@ -42,7 +42,5 @@ bibliography: E-portfolio and AI/citations.bib
 ### Using bayesian networks for student model engineering
 
 [@Millan2010-gh]
-
-
 
 ## References

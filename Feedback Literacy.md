@@ -6,44 +6,76 @@ bibliography: citations.bib
 
 ## What?
 
+### Initial definition
+
+1. Epistemological Dimension
+   - understanding the feedback about one's knowledge and academic performance
+   - including both summative (feedback on knowing) and formative (feedback for knowing) aspects
+2. Ontological Dimension
+   - personal development and educational identity of the learner
+   - how feedback impacts one's self-confidence and sense of self within the educational context.
+3. Practical Dimension
+   - the practical skills of reading, interpreting, and acting upon feedback, known as feed-forward skills.
+
+[@Sutton2012-mt]
+
+### Later definition
+
 - an understanding of ...
   - what feedback is
   - how it can be managed effectively
 - capacities and dispositions to make productive use of feedback
-- appreciation of the roles of teachers and themselves in these processe
+- appreciation of the roles of teachers and themselves in these process
 
 [@Carless2018-ul]
 
-### Four feactures
+- students’ and teachers’ capacities to optimize the benefits of feedback opportunities
+- understandings, capacities and dispositions that learners need to maximize benefits from feedback processes
+
+[@Nieminen2023-bd]
+
+### Four features
 
 1. Appreciating feedback
-   - Recognising the value of feedback
+   - Recognizing the value of feedback
    - Understanding  their active role in its processes
+   - recognize that feedback information comes in different forms and from different sources
+   - use technology to access, store and revisit feedback
 2. Making judgments
    - capability to make decisions about the quality of work of oneself and others
    - needs sustained opportunities for comparison with the views of others
+   - refine self-evaluative capacities over time in order to make more robust judgments
 3. Managing affect
-   - feedback often provokes negative affective reactions and threats to identity
-   - so how students manage their emotional equilibrium impacts on their engagement with critical commentary
-   - Affective responses to feedback are mediated by students’ relationships with their teacher and with other participants as they construct meanings together
-     - depending on a range of factors, including student self-efficacy, motivation and ability to handle emotions constructively
+   - maintain emotional equilibrium and avoid defensiveness when receiving critical feedback
+   - proactive in eliciting suggestions from peers or teachers and continuing dialogue with them as needed
+   - develop habits of striving for continuous improvement on the basis of internal and external feedback
 4. Taking action
    - act upon comments that they have received
-   - engage actively in making sense of information and use it to inform their later work, thereby closing a feedback loop
+   - engage actively in making sense of information
+   - use it to inform their later work
 
 [@Carless2018-ul]
 
 ## Why?
 
-- One of the main barriers to effective feedback is generally low levels of student feedback literacy
+- low feedback literacy is one of the main barriers to effective feedback
 - common discourses of students as consumers may also reinforce instrumental attitudes to learning and inhibit students from taking responsibility for developing their own knowledge and skills
 
 [@Carless2018-ul]
 
 ## How it can be developed?
 
-- Peer feedback
-- Discussion of exemplars
+- Compose and receive Peer feedback
+  - Input from peers can
+    - strengthen the social-relational aspects of feedback
+    - reduce the power-differentials and negative emotional reactions
+  - Promoter
+    - Digitally-enabled peer feedback
+      - speed of delivery and  portability
+    - substantial coaching
+- Analyzing exemplars
+
+[@Tripodi2021-mc]
 
 ### Teachers can facilitate those with
 
@@ -53,14 +85,18 @@ bibliography: citations.bib
 
 [@Carless2018-ul]
 
+### Interplay between teachers' lieteracy and students' literacy
+
+[@Carless2023-yt]
+
 ### Role of technology-enhanced approaches
 
 - Facilitating timely and convenient sharing of comments
 - Students generally value
-  - personalised and engaging nature of audio feedback
+  - personalized and engaging nature of audio feedback
 - Recent developments in learning analytics enable
   - information based on learning logs
-  - digital traces to provide timely personalised feedback at scale
+  - digital traces to provide timely personalized feedback at scale
 
 [@Carless2018-ul]
 

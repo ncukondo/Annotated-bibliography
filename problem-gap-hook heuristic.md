@@ -25,7 +25,7 @@ Ideally, these three elements appear in the first paragraph or two.
   - > With very little research into what residents actually do postcall and how they decide what to do, we do not know what influences residents’ decisions about their postcall time.
 - Hook
   - this information is necessary to ensure the effectiveness of initiatives designed to improve the situation
-  - > Consequently, it is unclear whether postcall behaviours are particularly entrenched, or what educational or organizational strategies might be implemented to influence them. The lack of such insight is a critical gap in the literature, as researchers have recently found that residents were unlikely to change or improve their sleep habits based solely on an educational intervention to improve their knowledge of sleep physiology principles.
+  - > Consequently, it is unclear whether postcall behaviors are particularly entrenched, or what educational or organizational strategies might be implemented to influence them. The lack of such insight is a critical gap in the literature, as researchers have recently found that residents were unlikely to change or improve their sleep habits based solely on an educational intervention to improve their knowledge of sleep physiology principles.
 
 [@Lingard2015-on]
 

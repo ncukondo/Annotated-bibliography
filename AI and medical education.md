@@ -38,6 +38,15 @@ bibliography:
   - to students
   - to teachers
 
+### Important mechanisms
+
+- transformer architectures and the underlying attention mechanism
+  - better understand the relationships between words in a sentence
+- use of pre-training, where a model is first trained on a large dataset before being fine-tuned on a specific task
+  - few-shot learning capability
+
+[@Kasneci2023-ig]
+
 ### Concerns
 
 - Ethical concerns [@Sallam2023-mu]
@@ -52,6 +61,32 @@ bibliography:
 ![](AI%20and%20medical%20education/2023-05-29-09-14-56.png)
 
 [@Sallam2023-mu]
+
+### Related articles
+
+#### ChatGPT for Good? On Opportunities and Challenges of Large Language Models for Education
+
+- A position paper (kind of review)
+- Refer to usage of ChatGPT in various contexts in education
+- Discuss the opportunities and challenges of using ChatGPT in education
+
+[@Kasneci2023-ig]
+
+#### Transformative effects of ChatGPT on modern education
+
+- a review paper
+- Discuss the transformative effects of ChatGPT on modern education
+- contains a lot of figures
+
+[@Gill2024-sx]
+
+#### Time to Revisit Existing Student’s Performance  Evaluation Approach in Higher Education Sector  in a New Era of ChatGPT — A Case Study
+
+- a case study
+- compare the performance of students in randomly selected courses with work done by ChatGPT
+- ChatGPT got comparable results to students, but high plagiarism rate
+
+[@Chaudhry2023-es]
 
 ## AI in general
 
