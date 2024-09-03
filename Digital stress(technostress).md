@@ -1,3 +1,7 @@
+---
+bibliography: citations.bib
+---
+
 # Technostress
 
 ## The Digital Stressors Scale
@@ -15,7 +19,7 @@
 1) Technical support
 1) Unreliability
 
-(Fischer et al., 2021 PMID:33776836)The Digital Stressors Scale: Development and Validation of a New Survey Instrument to Measure Digital Stress Perceptions in the Workplace Context. Frontiers in Psychology, 12, 607598. https://doi.org/10.3389/fpsyg.2021.607598 PMID:33776836
+[@Fischer2021-PMID33776836]
 
 ## Stress in workplace
 

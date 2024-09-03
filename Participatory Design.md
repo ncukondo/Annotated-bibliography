@@ -1,5 +1,5 @@
 ---
-bibliography: Participatory Design/citations.bib
+bibliography: citations.bib
 # [bib](./Participatory%20Design/citations.bib)
 notice: |
   @Funk2022-vy, @Stillman2005-tr, @Cober2015-le
@@ -10,7 +10,7 @@ notice: |
 ## What
 
 - a valuable approach for instructional design
-  - Teachers, educational designers and students bring together their exper- tise and experiences to jointly design instruction [@Konings2017-mg]
+  - Teachers, educational designers and students bring together their expertise and experiences to jointly design instruction [@Konings2017-mg]
 
 ## Why
 

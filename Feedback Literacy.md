@@ -77,6 +77,27 @@ bibliography: citations.bib
 
 [@Tripodi2021-mc]
 
+### AI and feedback literacy
+
+- Qualitative case study
+- Recount and Narrative essay course for 18 English as a Foreign Language (EFL) students
+- Data
+  - interviews
+  - reflective journals
+  - e-portfolios
+- Tools
+  - Grammarly
+  - Quillbot
+  - ChatGPT
+- Result
+  - use of chatGPT support feedback literacy through
+    - Processes feedback information
+      - student examines the ChatGPT's feedback and decides whether to accept or reject it
+    - Compare feedback information
+      - student compares the ChatGPT's feedback with the feedback from the teacher and other sources(like peer feedback)
+
+[@Gozali2024-fl]
+
 ### Teachers can facilitate those with
 
 - curriculum design
@@ -86,6 +107,19 @@ bibliography: citations.bib
 [@Carless2018-ul]
 
 ### Interplay between teachers' lieteracy and students' literacy
+
+#### Teachers' feedback literacy
+
+Teachers' feedback literacy facilitates the development of students' feedback literacy
+
+- knowledge, expertize, and disposition
+  - to design feedback process
+    - to make students uptake the feedback 
+    - to develop students' feedback literacy
+
+- a design dimension
+- a relational dimension
+- a pragmatic dimension
 
 [@Carless2023-yt]
 

@@ -1,15 +1,28 @@
 ---
-bibliography: "Digital Transformation/citations.bib"
-# [bib](./Digital%20Transformation/citations.bib)
+bibliography: citations.bib
 ---
 
 # Digital Transformation
 
+## Why?
+
+Digital transformation is driving significant changes across many industries, and medical education is no exception [@Shotarov2023-qa].
+
 ## What?
 
-### Various Difinitions from a Review
+### First definition
 
-- Digital Transformation in Higher Education Institutions: A Systematic Literature Review [@Castro_Benavides2020-my]
+@Stolterman2004-vj first described digital transformation as a change or influence that caused by digital technology in all aspect of human life
+
+### Other definitions
+
+> a process that aims to improve an entity by triggering significant changes to its properties through combinations of information, computing, communication, and connectivity technologies
+
+[@Kraus2021-nf]
+
+#### Various Definitions from a Review
+
+- Digital Transformation in Higher Education Institutions: A Systematic Literature Review [@Benavides2020-my]
 
 Paper | Digital Transformation
 -- | --
@@ -22,9 +35,35 @@ Paper | Digital Transformation
 [19] | DT is an accelerated evolution. It is also revolution because of its radical and structural implications for people as for infrastructure that also requires new educational and business models.
 [20] | Digital business transformation can be defined as the modification of business processes, procedures, capabilities and policies to take advantage of the changes and opportunities presented by new digital technologies, as well as the impact they have on society, while always thinking about current and future trends.
 
-[@Castro_Benavides2020-my]
+[@Benavides2020-my]
 
-### DT in HEIs Dimensions
+### Process of Digital transformation
+
+1. Digitization
+   - convert analog information to digital form
+   - a digital representation of a physical object, data, documents, photographic materials, etc.
+2. Digitalization
+    - convert current process to use digital technology
+    - actual use of digitization in practice
+3. Digital transformation
+    - adapting digital technology to core operation and business model
+    - the process of using digital technologies to create new — or modify existing — business processes, culture, and customer experiences to meet changing business and market requirements
+
+[@Shotarov2023-qa;@Khan2022-dm]
+
+
+
+### Strategic Roles of IT
+
+- Automate
+- Informate-up
+- Informate-down
+- Transform
+
+[@Vial2019-tz]
+
+
+### Digital transformation in higher education
 
 - Teaching dimension
 - Digital platforms and contents for teaching and learning
@@ -36,24 +75,64 @@ Paper | Digital Transformation
 - Data and security infrastructure
 - ...
 
-[@Castro_Benavides2020-my]
+[@Benavides2020-my]
 
-## Why?
+## Implementation of Digital Transformation
 
+### Simple Examples in Medical education
 
+- Introduction of AR and VR [@Shotarov2023-qa]
+- Introduction of e-learning [@Althubaiti2022-px]
 
-## Digital transformation in medical education: Factors that influence readiness
+### Spoilers
 
-[@Althubaiti2022-px]
+- Analog-to-Digitization spoiler
+  - about referral letter
+    - PDFs does not have text layer
+    - PDFs does not have structured data
+- Digitization-to-Digitalization spoiler
+  - informed consent
+    - documets are automatically generated
+    - although the documents are digital, the patient still needs to sign the paper
+- Digitalization-to-Digital transformation spoiler
+  - patients' electric drug information
+    - patients' electric drug information can be stored in their smartphones
+    - although the information is digital, the pharmacist still needs to input the information manually
 
-## Understanding digital transformation: A review and a research agenda
+[@Kou2022-hc]
 
-### Strategic Roles of IT
+### Readiness
 
-- Automate
-- Informate-up
-- Informate-down
-- Transform
+#### Factors that influence readiness in student
+
+- these three factors increase the readiness of students to use digital technologies in their learning process[@Althubaiti2022-px]:
+  - male
+  - age
+  - internet use
+
+## Research
+
+### Five caterories of research in healdhcare
+
+1. IT in health
+2. acceptance of IT in health
+3. telemedicine
+4. security of e-health
+5. educational impact of e-health
+   - education related to e-health and telemedicine
+
+[@Stoumpos2023-io]
+
+### Research of Digital Transformation in Healthcare
+
+- operational efficacy
+- patient centered approach
+- organizational factors
+- managerial implications
+- workforce practices
+- socio-economic aspects
+
+[@Kraus2021-nf]
 
 ### Digital transformation: a research agenda
 
@@ -69,3 +148,6 @@ Paper | Digital Transformation
 [@Vial2019-tz]
 
 ## References
+
+::: {#refs}
+:::

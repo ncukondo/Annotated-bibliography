@@ -1,0 +1,34 @@
+---
+bibliography: citations.bib
+---
+
+# Guideline Development
+
+| Themes | Features | Description |
+|-|-|-|
+| Team and contribution management | Collaboration | Support guideline panel roles; Remote and synchronous/asynchronous collaboration; Separate development, review, approval, etc. Allow both central real-time collaboration and remote batch-wise check-in/out. |
+| | Access | Enable logging; Authentication and authorization; Access policies and profiles; High granularity of access control; Separate between edit, comment, create, delete, review, vote, accept, and other forms of access. |
+| | Role | Support multiple roles per individual; Group roles (more than one person filling a role); Organizational roles; Dynamic roles according to process part and progress; Role inheritance and composition; Role-based access control; Dynamic roles according to voting and role delegation. |
+| | Conflict of interest | Handle and track panel members COI declarations. Accept different organizational COIs and content, for example: ICMIE, WHO, NHF (McMaster-NHF Guideline Panel conflict of interest form), and MSPSC. |
+| Project management | Development checklist | Support development process phases, including evidence review, development, publication, evaluation, etc.; Support plans and plan templates; Progress monitoring and dashboards; Management of workload, work division and subprojects; Quality control and testing/validation. |
+| | Milestones and deadlines | Support for resource control and allocation, deliverable management. |
+| | Progress monitoring | Review and revise and monitor steps/phases and degree of completion. Both for participants, audits and management. |
+| Evidence management | Search strategy and history | Support search in literature, existing guidelines and systematic reviews and health technology assessment reports for latest evidence according to a strategy. Record search strategy, sources, search keywords, retrieved results, filtering, inclusion and exclusion criteria, and outcome. |
+| | Evidence repository | Support storage of annotated literature and summaries in context; Provide sharing and collaborative assessment. |
+| | Citations and reference | Record evidence background for a specific recommendation. Link to context (cite) and refer to bibliography in evidence repository. Add, revise and delete background with justifications and assessment. Automate reference embedding and corresponding repository update. |
+| Guideline development | Evidence assessment | Enable repeated assessment of articles and evidence; Document assessment including temporary and final decisions of relevance, currency and eligibility for inclusion. Support different methods for assessment rating, i.e. Scottish Intercollegiate Guidelines Network (SIGN), Oxford, and GRADE. |
+| | Quality rating | Support different methodologies for rating the quality of evidence and ranking the strength of recommendations. i.e. Grades of Recommendation Assessment, Development and Evaluation (GRADE), the American Academy of Paediatrics (AAP), American College of Emergency Physicians (ACEP), American Society of Clinical Oncology (ASCO), American Urological Association (AUA), American Society for Parenteral and Enteral Nutrition (ASPEN), and American Physical Therapy Association (APTA). |
+| | Terminology and language | Support controlled natural language restricting the grammar and vocabulary in order to reduce or eliminate ambiguity and complexity. Support limited sentence and recommendation forms to enhance consistency of expression. Deontic expressions (must, should, may) can be used to add a semantics of intended level of obligation in the recommendation. |
+| | Voting | Support voting process, including voting rules, collecting cast votes, results presentations and recording. Record justifications and factors like evidence behind the recommendations, values, preferences, and available resources in approving the recommendations. Document disagreement and consensus processes. |
+| Document management | Change control (tracking) | Since guideline development is a collaborative, complex editorial and review process, it is desirable to keep track of all the changes in the guideline content based on the collaborators user account in a distinguishable and comprehensible way. All the modifications on guideline (partially or fully) including metadata associated to the guideline should be trackable. |
+| | Managing versions (version control) | Since the guideline development process needs constant edition and update, successive iterations of a document have to be numbered and saved in the repository. The versioning control for a document library can include major versions and minor (draft) versions for the same guideline under development. |
+| | Template-based authoring | To ensure consistency, template-based authoring can assist authors by indicating the main subject headings that are necessary to be included in a guideline. For example, a guideline has to have title, background information, recommendation and references. Different organizations have different perspectives on the main components that should be included in a guideline. Therefore, template-based authoring with certain flexibility in addressing different organizational perspectives for different types of guidelines is required. |
+| | Guideline repository management | The guideline development process is a nonlinear process. A guideline has to be changed frequently before final approval for publication. Therefore, storing the guidelines under development, which is a living document, in a repository facilitates the development process significantly. It can include storing images and all related attachments to the guideline as well. |
+| Guideline content enhancement | Tagging and EHR linking | Support semi-automated tagging of recommendations with relevant classification as ICD, SNOMED-CT, ATC, RxNorm, MeSH, ICPC-2, LOINC, and UMLS. Support tagging content that may be retrieved from the EHR. |
+| Import, export and publication | Import and export file formats | Guidelines, templates, meta-data, roles, repositories, process data (fully or partially) to different templates and formats. Between projects, guidelines and tools. |
+| | Publishing | Export navigable and end-usable guidelines. |
+| User experience enhancement | Wizard-based authoring | Sequencing of steps in the guideline development process (fully or partially) in order to lead the authors through a series of well-defined steps. |
+| | Walkthrough user guide | A walkthrough user guide to provide a step-by-step overview of implemented functionalities in a guideline development tool to the users with no experience. |
+| | User manual | Software user guide containing details on how to navigate and use the implemented functionalities. |
+
+[@Khodambashi2017-cv]

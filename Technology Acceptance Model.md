@@ -1,10 +1,40 @@
+---
+bibliography: citations.bib
+---
+
 # Technology Acceptance Model
 
-- the widely used reliable model[Granić A 2022]
+## What?
+
+- a framework to understand the adoption of technologies
+- original TAM model, focusing on those two factors as predictors of technology use:
+  - perceived usefulness (PU)
+  - perceived ease of use (PEOU)
+- extended
+  - intagrating other theories
+    - Theory of Planned Behavior
+    - the Unified Theory of Acceptance and Use of Technology
+  - context-specific variables
+    - subjective norm
+    - self-efficacy
+    - compatibility
+    - experience
+    - training
+    - anxiety
+    - habit
+    - facilitators
+
+@Rahimi2018-gk
+
+### Basic image of TAM
+
+![](Technology Acceptance Model/2024-02-09-09-22-39.png)
+
+@Rahimi2018-gk
 
 ## Scale
 
-Developed by [Davis FD 1989]
+Developed by @Davis1989-cj
 
 - Perceived Usefulness
   - [ ] Using CHART-MASTER in my job would enable me to accomplish tasks more quickly.
@@ -21,30 +51,29 @@ Developed by [Davis FD 1989]
   - [ ] It would be easy for me to become skillful at using CHART-MASTER.
   - [ ] I would find CHART-MASTER easy to use.
 
-
-[Davis FD 1989]
+[@Davis1989-cj]
 
 ## Examples of use
 
 ### WeChat
 
-- using WeChat to language learning
+- Explore acceptance of WeChat for language learning
 
-#### arranged original TAM
+#### Arranged original TAM
 
-- Continuance intention (adapted from Q. Zhao et al., 2016)
+- Continuance intention (adapted from @Zhao2016-jy)
   1. In the near future, I intend to continue using WeChat to learn a language.
   2. My intention is to continue using WeChat to learn a language rather than an alternative application.
   3. I intend to continue using WeChat to learn a language.
-- Perceived Usefulness (adapted from Q. Zhao et al., 2016)
+- Perceived Usefulness (adapted from @Zhao2016-jy)
   1. WeChat enables me to accomplish more learning tasks.
   2. WeChat increases my learning productivity.
   3. Overall, WeChat is useful for learning a language.
-- Perceived Ease of Use (adapted from Q. Zhao et al., 2016)
+- Perceived Ease of Use (adapted from @Zhao2016-jy)
   1. Learning to use WeChat to learn a language is easy.
   2. My interaction with WeChat to learn a language is clear and understandable.
   3. I find WeChat easy to learn a language.
-- Perceived enjoyment (adapted from Y. Lu et al., 2009)
+- Perceived enjoyment (adapted from @Lu2009-lf)
   1. Using WeChat gives me pleasure in learning.
   2. Using WeChat is fun in learning.
   3. Using WeChat makes me happy in learning.
@@ -57,12 +86,22 @@ Developed by [Davis FD 1989]
   2. I feel proud of use of WeChat in learning.
   3. I think WeChat can make me successful in learning.
 
-> Note. Five-point Likert-type scale: 1  strongly  disagree,2 disagree,3 neutral,4 agree, and 5 strongly agree.
+#### Note. Five-point Likert-type scale:
 
-- [Yu Z 2020]
+    1. strongly  disagree
+    2. disagree
+    3. neutral
+    4. agree
+    5. strongly agree.
+
+[@Yu2020-pz]
+
+## Relating to other models
+
+- Decomposed  Theory  of  Planned  Behavior
+- Unified Theory of Acceptance and Use of Technology
+- Extended UTAUT (UTAUT2)
+
+[@Granic2022-lq]
 
 ## References
-
-- [Granić A 2022]:Granić A. Educational Technology Adoption: A systematic review. Educ Inf Technol (Dordr). 2022;27(7):9725-9744. doi:10.1007/s10639-022-10951-7
-- [Davis FD 1989]:Davis FD. Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology. Miss Q. 1989;13(3):319-340. doi:10.2307/249008
-- [Yu Z 2020]:Yu Z. Extending the Learning Technology Acceptance Model of WeChat by Adding New Psychological Constructs. Journal of Educational Computing Research. 2020;58(6):1121-1143. doi:10.1177/0735633120923772

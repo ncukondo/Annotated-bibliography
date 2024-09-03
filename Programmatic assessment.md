@@ -1,3 +1,7 @@
+---
+bibliography: citations.bib
+---
+
 # Programmatic  assessment
 
 ## 12 principles of programmatic assessment
@@ -15,7 +19,7 @@
 - Principle 11: earners have recurrent learning meetings with (faculty) mentors/coaches using a self- analysis of all assessment data
 - Principle 12: programmatic assessment seeks to gradually increase the learner’s agency and accountability for their own learning through the learning being tailored to support individual learning priorities
 
-Heeneman, S., de Jong, L. H., Dawson, L. J., Wilkinson, T. J., Ryan, A., Tait, G. R., Rice, N., Torre, D., Freeman, A., & van der Vleuten, C. P. M. (2021). Ottawa 2020 consensus statement for programmatic assessment - 1. Agreement on the principles. Medical Teacher, 43(10), 1139–1148. https://doi.org/10.1080/0142159X.2021.1957088
+[@Heeneman2021-ld]
 
 ## Ottawa 2020 Implementation of programmatic assessment
 
@@ -47,46 +51,45 @@ Heeneman, S., de Jong, L. H., Dawson, L. J., Wilkinson, T. J., Ryan, A., Tait, G
     - [ ] the need for a paradigm shift in the culture of assessment
         - embedded assessment and educational culture
 
-
-Torre, D., Rice, N. E., Ryan, A., Bok, H., Dawson, L. J., Bierer, B., Wilkinson, T. J., Tait, G. R., Laughlin, T., Veerapen, K., Heeneman, S., Freeman, A., & van der Vleuten, C. (2021). Ottawa 2020 consensus statements for programmatic assessment - 2. Implementation and practice. Medical Teacher, 43(10), 1149–1160. https://doi.org/10.1080/0142159X.2021.1956681
+[@Torre2021-vt]
 
 ## Feedback and Mentoring
 
 - Feedback
-    - aware about  the  activities  performed  well  and  areas  which  require  more  attention
-    - how?
-        - nonthreatening  atmosphere
-        - nonjudgmental  manner
-        - constructive
+  - aware about  the  activities  performed  well  and  areas  which  require  more  attention
+  - how?
+    - nonthreatening  atmosphere
+    - nonjudgmental  manner
+    - constructive
 - Mentoring
-    - feedback alone might not be sufficient to improve the learning of students
-    - make students a self‑directed learner
-        - accomplished  through  giving  an  effective  feedback  to  the  student  either  verbally  or  through a structured format
+  - feedback alone might not be sufficient to improve the learning of students
+  - make students a self‑directed learner
+    - accomplished  through  giving  an  effective  feedback  to  the  student  either  verbally  or  through a structured format
+
 (Fischer et al., 2021 PMID:33776836)The Digital Stressors Scale: Development and Validation of a New Survey Instrument to Measure Digital Stress Perceptions in the Workplace Context. Frontiers in Psychology, 12, 607598. https://doi.org/10.3389/fpsyg.2021.607598 PMID:33776836
 
 ## International study on implementation
 
-
 - knowledge brokers
-    - drove and designed the implementation process acting by translating evidence int practice
+  - drove and designed the implementation process acting by translating evidence int practice
 - strategic opportunistic approach
-    - agile approach
-      - exploit opportunities
-      - adapt context
-      - manage and take advantage of the unexpected
+  - agile approach
+    - exploit opportunities
+    - adapt context
+    - manage and take advantage of the unexpected
 
-Torre, D., Schuwirth, L., Van der Vleuten, C., & Heeneman, S. (2022). An international study on the implementation of programmatic assessment: Understanding challenges and exploring solutions. Medical Teacher, 44(8), 928–937. https://doi.org/10.1080/0142159X.2022.2083487
+[@Torre2022-te]
 
 ## Programmatic  assessment:  From  assessment of  learning  to  assessment  for  learning
 
 This is the first article about programmatic assessment. Assessment of learning to assessment for leaning. It argues that there are limitations to measuring competency in a single assessment and advocates assessment as a program.
 
-Schuwirth, L. W. T., & Van der Vleuten, C. P. M. (2011). Programmatic assessment: From assessment of learning to assessment for learning. Medical Teacher, 33(6), 478–485. https://doi.org/10.3109/0142159X.2011.565828
+[@Schuwirth2011-rh]
 
 ## Programmatic Assessment: The Secret Sauce of Effective CBME Implementation
 
 This article advocates viewing CBME as a system and using programmatic assessment as part of that system.
 
-Iobst, W. F., & Holmboe, E. S. (2020). Programmatic Assessment: The Secret Sauce of Effective CBME Implementation. Journal of Graduate Medical Education, 12(4), 518–521. https://doi.org/10.4300/JGME-D-20-00702.1
+[@Iobst2020-cb]
 
 ## A Core Components Framework for Evaluating  Implementation of Competency-Based Medical  Education Programs

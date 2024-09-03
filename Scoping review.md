@@ -1,3 +1,7 @@
+---
+bibliography: citations.bib
+---
+
 # Scoping review
 
 ## A scoping review for scoping reviews
@@ -12,9 +16,9 @@ Maggio et al., 2021 PMID:33300124[@PMID33300124]
 
 ### Abstract
 
-| Section            | Item | PRISMA-ScR Checklist Item                                    |
-| ------------------ | ---- | ------------------------------------------------------------ |
-| Structured summary | 2    | Provide a structured summary that includes (as applicable) background,  objectives, eligibility criteria,sources of evidence, charting methods,  results, and conclusions that relate to the review questions and objectives. |
+| Section  | Item | PRISMA-ScR Checklist Item  |
+| -- | -- | -- |
+| Structured summary | 2  | Provide a structured summary that includes (as applicable) background,  objectives, eligibility criteria,sources of evidence, charting methods,  results, and conclusions that relate to the review questions and objectives. |
 
 ### Introduction
 

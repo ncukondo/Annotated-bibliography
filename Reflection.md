@@ -1,61 +1,67 @@
 ---
-bibliography: "Reflection/citations.bib"
-# [bib](Reflection/citations.bib)
+bibliography: citations.bib
 ---
 
 # Reflection
 
-## そもそも省察とは?
+AMEE guide exists by @Sandars2009-pd
 
-### 定義があいまい
+## Categorization of reflective materials
 
-> 省察を強調しきれなかった理由の一つに、心理学でも一般の用法でも省察概念そのものが明快さを欠いていた点がある
+### GRE-9 (Grading Reflective Essey-9)
 
-[@Mezirow2012-vl]
+| Item | Guidance | Not attempted | Partial | Full |
+|------|----------|---------------|---------|------|
+| 1. What happened? | State the main features of the event: persons involved, timing, place, setting, how all persons concerned acted/behaved |  | | 1 |
+| 2. What is special about this event? | State clearly the reason for choosing this event in particular. In-depth description of the dilemma, conflict, challenge posed by the event |  | | 1 |
+| 3. Feelings when it happened | Describe personal thoughts and feelings while the event was happening, emotional insight and empathy | |  | 2|
+| 4. What was the outcome for the concerned? | Concerned include patient, significant others, health professionals, health system, society. Empathetic reflection | |  |2 |
+| 5. Understanding of the event | Express what was good and bad about the experience; interpretation of the situation at present with justifications (factors/ knowledge influencing judgment) | |  | 2|
+| 6. Congruence of actions and beliefs | Does the resident think he acted as per his beliefs? Was there anything that held him back from applying his beliefs? Reflection-on-action | |  |2 |
+| 7. New thoughts and feelings after reflection | Describe resident's new thoughts and feelings after reflecting on the case. Making meaning and analysis of the thoughts and feelings | |  | 2|
+| 8. Reference to old experience and others | Compare to other situations, experiences, others involved, and known events and facts, preferable to have reference | |  | 2|
+| 9. How this incident will affect future role | If it arose again, how would the resident act? How did this experience change the practice for the better? Transformative learning, development of new viewpoint of the situation | |  |2 |
+| **Total score** | | | | **16** |
 
-#### 様々な定義がある
+[@Makarem2020-xa;@Makarem2023-ua]
 
-| 引用元 | 定義 |
+### A pragmatic approach to categorizing reflective material
+
+| Grade | Description |
 | --- | --- |
-| Dewey 1938 | 信念や考えている知識に関しての注意深く・継続的に・積極的な思考であり、あるいはそれを支持し、行き着く結論を支える土台に照らしてみた知の形態 | 
-| Boud et al. 1985 | 経験を探索し新しい理解や見方に至ることを示す包括的な言葉。振り返りは体 験の感情的な側面をふくべき | 
-| Moon 2004 | はっきりとした解決法がないものに複雑だったり構造のないアイディアだったりを当てはめてみた結果を考えること | 
-| AMEE 44 | 出来事の前・最中・後にその出来事や自分自身に対する理解を深め次の状況に役立てるためのメタ認知プロセス |
+| A | Experiencing an event(s) has changed, or confirmed, how you experience an event (s). You may wish to change how you respond to similar event(s in the future. You provide an explanation, including references to other literature, eg articles or books. |
+| B | Involves judgement – what went well, or less well and why.  |
+| C | Describing an event – recognising how it affects your feelings, attitudes and  beliefs and/or questioning what has been learnt and comparing it to previous experience. |
+| D | Describing an event – recognising that something is important but not explaining  why. |
+| E | Describing an event – repeating the details of an event without offering any  interpretation. |
+| F | Describing an event – poor description of an event.  |
 
-[@Sandars2009-pd]
+AMEE guide No. 44 by @Sandars2009-pd
 
-## なぜ重要とされるのか?
+### REFLECT rubric
 
-古典的な技術熟達者モデルでは、学習者はある体系に従って技術と知識を学ぶことでプロフェッショナルとしてのスキルを獲得するとされている。しかし、このモデルでは、プロフェッショナルが複雑な状況の中で学びながら実践していることを表現できない。そこで、プロフェッショナルが実践の中で学びながら成長していくプロセスを表現するために、省察が重要とされるようになった。
+| Criterion | Habitual action (Nonreflective) | Thoughtful action | Reflection | Critical reflection |
+| - | - | - | - | - |
+| **Writing spectrum** | Superficial descriptive writing approach (fact reporting, vague impressions) without reflection or introspection | Elaborated descriptive writing approach and impressions without reflection | Movement beyond reporting or descriptive writing to reflecting (i.e., attempting to understand, question, or analyze the event) | Exploration and critique of assumptions, values, beliefs, and/or biases, and the consequences of action (present and future) |
+| **Presence** | Sense of writer being partially present | Sense of writer being partially present | Sense of writer being largely or fully present | Sense of writer being fully present |
+| **Description of conflict or disorienting dilemma** | No description of the disorienting dilemma, conflict, challenge, or issue of concern | Absent or weak description of the disorienting dilemma, conflict, challenge, or issue of concern | Description of the disorienting dilemma, conflict, challenge, or issue of concern | Full description of the disorienting dilemma, conflict, challenge, or issue of concern that includes multiple perspectives, exploring alternative explanations, and challenging assumptions |
+| **Attending to emotions** | Little or no recognition or attention to emotions | Recognition but no exploration or attention to emotions | Recognition, exploration, and attention to emotions | Recognition, exploration, attention to emotions, and gain of emotional insight |
+| **Analysis and meaning making** | No analysis or meaning making | Little or unclear analysis or meaning making | Some analysis and meaning making | Comprehensive analysis and meaning making |
+| **Optional minor criterion: Attention to assignment (when relevant)** | Poorly addresses the assignment question and does not provide a compelling rationale for choosing an alternative | Partial or unclear addressing of assignment question; does not provide a compelling rationale for choosing an alternative | Clearly answers the assignment question and, if relevant, provides a compelling rationale for choosing an alternative | Clearly answers the assignment question and, or, if relevant provides a compelling rationale for choosing an alternative |
 
-[@Schon2007-sw]
+| Axis II for critical reflection and learning | Transformative reflection and learning | Confirmatory learning |
+| - | - | - |
+| **Definition** | Frames of reference or meaning structures are transformed. Requires critical reflection Integration of new learning into one’s identity, informing future perceptions, emotions, attitudes, insights, meanings, and actions. Conveys a clear sense of a breakthrough | Frames of reference or meaning structures are confirmed. Requires critical reflection |
 
-## 経験学習モデル
+[@Wald2012-oh]
 
-### Kolbの経験学習モデル
+### Based on stages in professional development
 
-経験学習において、学習は具体的な経験に立脚する。Kolbは、経験学習における学習のプロセスを4つの段階に分けた。それぞれの段階は、学習者が経験を通して学習するために必要なプロセスを表している。1段階目は具体的な経験である。2段階目は経験に対する省察である。学習者は経験を振り返ることで何を経験したかを理解することができる。3段階目は概念化である。学習者は経験から学習すべき要素を抽出し、今後に活かすべき知識とする。4段階目は実験である。前の段階で得た知識を実践の場で使用することを通して学ぶ。Kolbは、学習者はこの4つの段階を繰り返すことで学習を進めていくとした。
+| Grade | Description |
+| --- | --- |
+| Committed reflection | There is a discussion of what has been learned, how it has affected the individual and how they feel that they have changed. Some presentation of evidence to back this up should be provided. |
+| Emotional exploration | There is evidence of the emotional impact of an experience and this includes insights and discussion about their own beliefs and values, including how these have been challenged. |
+| Objective reporting | There is only a descriptive account of what happened during the experience with no evidence of reflection, or how the experience has affected them. |
+| Diffuse reporting | The description is unfocused or disorganized and contains only a description of the experience. |
 
-![](reflection/Kolb.svg)
-
-[@Kolb1984-jg; @Yardley2012-sh]
-
-#### 臨床教育で活かすのは?
-
-教育の場を振り返り4段階を繰り返す環境を整えることができているかどうかを点検し、改善に繋げることができる。
-
-##### 経験
-
-- 具体的な経験を機会はあるか?
-  - 患者を診察する機会
-  - 治療を行う機会
-- 経験を振り返る機会はあるか?
-  - 症例検討会
-  - フィードバック
-- 経験を概念化する機会はあるか?
-  - 文献にアクセスできるか?
-  - 文献の使い方を学ぶ機会はあるか?
-- 次に活かす機会はあるか?
-  - 継続的な診療の機会はあるか?
-
-## 引用文献
+AMEE guide No. 44 by @Sandars2009-pd based on @Niemi1997-hi

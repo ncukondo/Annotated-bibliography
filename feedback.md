@@ -158,60 +158,39 @@ see [Feedback Literacy](Feedback%20Literacy.md)
 
 [@Gulbas2016-yn]
 
-### Categorized matrix for feedback comment
+#### Quantity of feedback
 
-- Performance
-  - describe the student’s performance on which the feedback is provided
-- Judgment
-  - include a judgment to denote the gap between this performance and a standard
-- Elaboration
-  - contain an elaboration statement that builds further on the judgment
-- Improvement
-  - provide strategies on how the student’s performance can be improved
+- good comments tend to longer than bad comments
+  - from students
+    - Cluster A - helpful
+      - average 306.4 words
+    - Clusters B and C - less helpfull
+      - average 107.3 words and 151.1 words
+    - Cluster D - rated as helpful by significantly fewer students.
+      - average 90.8 words
 
-[@Van_Ostaeyen2023-ut]
+[@Gulbas2016-yn]
 
-| Code | Definition |
-| -- | --|
-| Performance | The task on which the feedback is provided. This task must be observable. |
-| Judgment | An adjective used to denote the gap between the performance and a standard.<br><br> It is an evaluative statement expressed as a judgment on past performance. |
-| Elaboration | Informative statement that builds further on the judgment expressed as a  question, confirmation,<br> suggestion, or justification… (e.g. it indicates what went well or did not go well, why it went well or not…). In doing so, it gives more details about the judgment. |
-| Improvement | The aim of feedback is to improve the trainee’s performance. The feedback must suggest strategies for improvement. |
+- narrative feedback is often lacking in both quality and quantity
 
-[@Van_Ostaeyen2023-ut]
+[@Courtis2023-af]
 
-### Rubrics for feedback in basic surgical skills
+#### Feedback Quality Measures
 
-#### Schema
+- Categorized matrix for feedback comment
+- Rubrics for feedback in basic surgical skills
 
-- valence
-  - positive/reinforcing vs negative/corrective
-- specificity
-  - specific vs nonspecific
-- relevance
-  - relevant vs irrelevant
+also see [Feedback Quality Measure](feedback%20quality%20measure.md)
 
-[@Zhou2023-dc]
-
-#### Rubric table
-
-- used to evaluate the feedback in basic surgical skills curriculum
-
-[@Zhou2023-dc]
-
-| | Definition | Example with Explanation |
-| -- | -- | -- |
-| Relevance: Relevant | References the task | “Great fluid movement!”<br> This is relevant in that “fluid movement” references an aspect of the task (quality of movement) |
-| Valence: Reinforcing | Any positive feedback | “Very nice job using your index finger to push down the throws.”<br> This is reinforcing in that it encourages the continued use of their index finger to push down throws |
-| Valence: Corrective | Any feedback that identifies an area of improvement | “Try not to tension the suture on the ‘vessel’ as much”<br> This is corrective in that it identifies too much tension as an area of improvement. |
-| Specificity: Pragmatically Specific | Specific feedback that may require inference from context clues | “Great job overall! you can increase your working distance because you are using a very small loop,”<br> This is pragmatically specific in that it points out one aspect of improvement (increasing working distance) but does not clearly define the amount by which to increase the working distance. |
-| Specificity: Semantically Specific | Specific feedback that does not require inference on the part of the recipient | “Consider 1-2'' longer working distance.”<br> This is semantically specific in that it clearly defines the length by which to increase the working distance. |
-
-![](feedback/2024-01-16-14-37-50.png)
-
-[@Zhou2023-dc]
 
 ## Challenges
+
+### in clinical rotation of medical students
+
+- feedback on students’ clinical performance is often not forthcoming
+- when offered it is deficient and fails to concentrate on the development of different clinical skills.
+
+[@Al-Mously2014-ck]
 
 ### in EPA assessment
 
@@ -304,7 +283,6 @@ see [Feedback Literacy](Feedback%20Literacy.md)
 
 [@Van_Ostaeyen2023-ut]
 
-
 ### Feedback using AI
 
 #### Effectiveness of AI-generated feedback
@@ -392,9 +370,6 @@ see [Feedback Literacy](Feedback%20Literacy.md)
 
 [@Osawa2023-tc]
 
-#### Automated Feedback
-
-
 ### Risks related to technology-enhanced approaches
 
 - the process may still be dominated by feedback as telling
@@ -403,5 +378,18 @@ see [Feedback Literacy](Feedback%20Literacy.md)
   - learner agency may be lacking
 
 [@Carless2018-ul]
+
+- eventually  replace  certain  roles  of  human  educators
+  - quantity and quality of human 
+interactions and a decrease in the amount of personal attention and  feedback  students  receive
+
+[@Lee2023-qp]
+
+- Ethical concern
+  - responsibility
+  - AI system mistakes and errors
+  - e.g., incorrect information  that  results  in  a  negative  outcome
+
+[@Lee2023-qp]
 
 ## References
