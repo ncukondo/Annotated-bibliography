@@ -44,7 +44,7 @@ Systematic review by @Cavalcanti2021-pp
 
 [@Van_der_Schaaf2017-xj]
 
-### teacher to other teacher feedback vs automated feedback
+### Teacher to other teacher feedback vs automated feedback
 
 - e-portfolio in in-service teacher professional development course “Lesson observation and analysis”
 - automated feedback
@@ -67,6 +67,18 @@ Systematic review by @Cavalcanti2021-pp
 3. ChatGPT could provide feedback on the process of students completing the task,  which  benefits  students  developing  learning  skills.
 
 [@Dai2023-gk]
+
+### Feedback on surgeon's performance
+
+- Researchers created written descriptions of 20 surgical situations, 14 of which contained a surgical error.
+- These situations were evaluated by ChatGPT and three experienced surgeons.
+- The researchers then asked four surgical residents, a "Clinical Expert" (experienced surgeon with an education background), and an "Education-Expert" (with experience in technology-mediated feedback) to evaluate the feedback.
+- They were asked to rate the usefulness and quality of the feedback, without knowing whether the feedback came from ChatGPT or a surgeon.
+- ChatGPT's feedback was considered useful 96.43% of the time, similar to the feedback from two of the surgeons.
+- The quality of feedback from ChatGPT was also rated similarly to the surgeons' feedback by the residents.
+- However, the Education-Expert rated ChatGPT's feedback quality significantly higher than two of the surgeons, while the Clinical Expert rated one of the surgeons' feedback higher than ChatGPT's.
+
+[@Jarry-Trujillo2024-kg]
 
 ### Empathetic ChatBot vs teacher's feedback
 
@@ -124,7 +136,7 @@ Systematic review by @Cavalcanti2021-pp
 
 [@Escalante2023-mf]
 
-### automated, personalized feedback on each instructor’s uptake of student
+### Automated, personalized feedback on each instructor’s uptake of student
 
 - Code in Place
   - a 5-week, free online computer science  course  organized  by  Stanford  University

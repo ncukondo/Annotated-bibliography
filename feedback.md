@@ -1,9 +1,5 @@
 ---
-bibliography: 
-- feedback/citations.bib
-- citations.bib
-
-# [bib](feedback/citations.bib)
+bibliography: citations.bib
 ---
 
 # Feedback
@@ -104,7 +100,7 @@ see [Feedback Literacy](Feedback%20Literacy.md)
 
 - not sustainable
   - too much work for teachers (it is difficult to monitor all students’ work)
-  - In the long term, studentswill graduate and the infrastructure of support for learning that this model assumes has to fade and disappear
+  - In the long term, students will graduate and the infrastructure of support for learning that this model assumes has to fade and disappear
 
 [@Boud2012-gs]
 
@@ -160,11 +156,11 @@ see [Feedback Literacy](Feedback%20Literacy.md)
 
 #### Quantity of feedback
 
-- good comments tend to longer than bad comments
+- Good comments tend to longer than bad comments
   - from students
     - Cluster A - helpful
       - average 306.4 words
-    - Clusters B and C - less helpfull
+    - Clusters B and C - less helpful
       - average 107.3 words and 151.1 words
     - Cluster D - rated as helpful by significantly fewer students.
       - average 90.8 words
@@ -181,7 +177,6 @@ see [Feedback Literacy](Feedback%20Literacy.md)
 - Rubrics for feedback in basic surgical skills
 
 also see [Feedback Quality Measure](feedback%20quality%20measure.md)
-
 
 ## Challenges
 
@@ -209,8 +204,8 @@ also see [Feedback Quality Measure](feedback%20quality%20measure.md)
 
 ### on professional behavior (by written feedback)
 
-- directed content analysis of 970 written feedback comments from 197 observers
 - most information lacked actionable information
+  - based on directed content analysis of 970 written feedback comments from 197 observers
 
 ![](feedback/2024-01-22-10-02-02.png)
 
@@ -229,16 +224,57 @@ also see [Feedback Quality Measure](feedback%20quality%20measure.md)
 
 [@Lefroy2015-vv]
 
-## Comments to summative assessment
+## Effectiveness
 
-- only few comments can contribute to reliable raking of students
+### Factors related to feedback effectiveness
+
+- reliability of evaluators
+- timelessness of feedback
+- individualized feedback
+
+[@Watling2008-om]
+
+### written feedback
+
+- feedback was perceived as helpful in 3 studies
+  - From narrative review
+    - 8 Of the 8 studies involving peer feedback
+  - outcome improvement in 1 study
+    - Outcome improvements included
+      - clinical exam scores
+      - improved quality of notes
+      - improvement in writing competency
+
+[@Hansen2024-fe]
+
+### Effective way may vary between individuals
+
+- gender differences in the didactic condition only
+  - with males giving lower ratings for utility of the training
+  - feedback on learning and transfer of intercultural communication skills learned in an experiential training task
+
+[@Kennedy2017-qf]
+
+### Comments reliably reflect performance of residents
+
+- comments are reliably reflect performance of residents
+  - compare ITER score(18 items 1 to 5 likert scale) with free comment
+  - free comment were converted to categories(A,B,C,D) by trained research assistant
+    - Residents wer categorized into
+      - A = outstanding, excellent, exemplary
+      - B = solid,safe, may need some fine tuning
+      - C = borderline, bare minimum, remediable
+      - D = unsafe, unacceptable, multiple deficits
+  - reliability coefficients averaged across four rankers were G = 0.85 and G = 0.91
+  - For a single ranker, G = 0.60 and G = 0.73. Using  only the first three assessments
+  - Using written comments to discriminate  between residents can be extremely reliable even after only several reports are  collected
 
 ![](feedback/2024-01-22-10-23-52.png)
 ![](feedback/2024-01-22-10-19-50.png)
 
 [@Ginsburg2017-ru]
 
-### Read between the lines
+#### Read between the lines to predict resident performance
 
 - 24 faculty categorized a subgroup of residents based solely on comments for their clinical performance
 - They were then interviewed to determine how they had made their judgement
@@ -250,7 +286,7 @@ also see [Feedback Quality Measure](feedback%20quality%20measure.md)
 - Participants made inferences based on what they thought evaluators intended by their comments and seemed to share an understanding of a ‘hidden code’
 - Participants’ ability to ‘read between the lines’ explains how comments can be effectively used to categories and rank-order residents.
 
-[@Ginsburg2017-ru]
+[@Ginsburg2015-yw]
 
 ## Role of technology-enhanced approaches
 

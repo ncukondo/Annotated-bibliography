@@ -4,7 +4,17 @@ bibliography: citations.bib
 
 # Reflection
 
+## What is reflection?
+
+> a metacognitive process that creates a greater understanding of both the self and the situation so that future actions can be informed by this understanding
+
+[@Sandars2009-pd]
+
 AMEE guide exists by @Sandars2009-pd
+
+> Reflection is a key element in learning from observation and experience of future profession's roles and responsibilities in clinical encounters
+
+[@Mafinejad2022-yw]
 
 ## Categorization of reflective materials
 

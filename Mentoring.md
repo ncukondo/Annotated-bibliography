@@ -9,14 +9,17 @@ mentoring-networkについて(メンター同士の繋がり)
 ## What is mentoring?
 
 - a partnership in personal and professional growth and development [@Sambunjak2006-hr]
+- the mentor through an honest, trustworthy,supportive  and  collaborative  relationship  with  the  mentees   helps  them  develop  or  revise  ideas  and  knowledge  of  their   scientific  field,  conveys  moral  values,  influences  the  maturation and moulding of their character and personality, opens  the road of their career path and positively affects and follow  the mentees’ life. [@Moutsopoulos2019-hz]
+- senior and more knowledgeable in the field
+the mentee is entering, successfully completing the role of a teacher, model, advisor, and sponsor [@Henry-Noel2019-wu]
 
 ## Pourpose
 
 - introduction to everyday student life [@Buddeberg-Fischer2006-kv]
 - career development [@Buddeberg-Fischer2006-kv]
 - recruit [@Buddeberg-Fischer2006-kv]
-- repare students from ethnic minoritie [@Buddeberg-Fischer2006-kv]
-- earning their specialist qualificatio [@Buddeberg-Fischer2006-kv]
+- prepare students from ethnic minoritie [@Buddeberg-Fischer2006-kv]
+- earning their specialist qualification [@Buddeberg-Fischer2006-kv]
 - develop academic career [@Buddeberg-Fischer2006-kv]
 
 ## Form
@@ -68,10 +71,19 @@ mentoring-networkについて(メンター同士の繋がり)
 
 ## Effect
 
-- develop professional attributes
-- facilitate socialization into a profession
+- from @Kalen2010-da
+  - develop professional attributes
+  - facilitate socialization into a profession
+- from @Buddeberg-Fischer2006-kv
+  - high satisfaction
+  - impromvement of communication and learning in the group
+  - increase in the number of minority students
 
-[@Kalen2010-da]
+### Disadvantages
+
+- from @Buddeberg-Fischer2006-kv
+  - large time demands on mentors
+  - anxiety caused by the constant checking of the mentees by the mentors
 
 ### in academic medicine
 
