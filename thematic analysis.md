@@ -89,6 +89,12 @@ by ChatGPT
 
 [@Thompson2022-jk]
 
+## Examples
+
+- Document analysis about medical error [@Raghoebar-Krieger2023-hj]
+- Reflective writing about clinical shadowing [@Yang2024-hh]
+  - mixed with quantitative analysis to count the frequency of themes
+
 ### Using LLMs
 
 #### Using ChatGPT review
@@ -105,3 +111,7 @@ by ChatGPT
 
 [@Lee2024-co]
 
+## References
+
+::: {#refs}
+:::

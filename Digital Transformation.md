@@ -112,7 +112,7 @@ Paper | Digital Transformation
 
 ## Research
 
-### Five caterories of research in healdhcare
+### Five categories of research in healdhcare
 
 1. IT in health
 2. acceptance of IT in health

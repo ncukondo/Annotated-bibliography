@@ -4,5 +4,6 @@
     "likert",
     "postcall",
     "Transformative"
-  ]
+  ],
+  "biome.enabled": false
 }

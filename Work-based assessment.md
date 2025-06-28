@@ -103,8 +103,6 @@ graph TD;
 
 (Moonen-van Loon et al., 2013 )[@PMID23494202]
 
-
-
 # Validity in work-based assessment
 
 ## Three (misleading) assumptions
